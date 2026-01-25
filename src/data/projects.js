@@ -3,18 +3,18 @@ export const projects = [
         id: 1,
         title: 'Portfolio personal',
         description: "Mi primer portfolio creado con React.",
-        image: "https://picsum.photos/300/200?random=1"
+        image: "/images/proyecto1.png"
     },
     {
         id: 2,
-        title: 'App de tareas',
-        description: "Apliación sencilla para gestionar tareas.",
-        image: "https://picsum.photos/300/200?random=2"
+        title: 'App de gestion de proyectos',
+        description: "App sencilla para gestionar proyectos.",
+        image: "/images/proyecto2.png"
     },
     {
         id: 3,
-        title: 'Web corporativa',
-        description: "Diseño de una web corporativa responsive.",
-        image: "https://picsum.photos/300/200?random=3"
+        title: 'Web ODS 1',
+        description: "Diseño de una web para solucionar el ODS1.",
+        image: "/images/proyecto3.png"
     }
 ];

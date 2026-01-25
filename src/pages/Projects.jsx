@@ -6,6 +6,8 @@ export default function Projects() {
       <section>
           <h2>Proyectos</h2>
 
+          <div className="project-grid">
+
           {
               projects.map((project) => (
                   <ProjectCard
@@ -16,6 +18,7 @@ export default function Projects() {
                   />
               ))
           }
+          </div>
       </section>
     );
 }

@@ -4,6 +4,7 @@ import Home from './pages/Home';
 import Contact from './pages/Contact';
 import Projects from "./pages/Projects.jsx";
 import "./App.css"
+import "./index.css"
 function App() {
 
   return (
